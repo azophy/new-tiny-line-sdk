@@ -1,0 +1,16 @@
+{
+  "name": "New tiny-line-sdk example",
+  "description": "Example of using LINE Messangin API with barebone vanilla sdk",
+  "repository": "https://github.com/azophy/new-tiny-line-sdk",
+  "keywords": ["LINE mesanger", "PHP", "example"],
+  "env": {
+    "LINE_API_SECRET": {
+      "description": "LINE Messaging API secret",
+      "value": ""
+    },
+    "LINE_API_ACCESS_TOKEN": {
+      "description": "LINE Messaging API access token",
+      "value": ""
+    }
+  }
+}

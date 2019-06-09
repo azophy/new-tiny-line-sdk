@@ -6,6 +6,8 @@ from code in https://github.com/HalimZamal/LineBotExample
 
 Try it on heroku using deploy button or copy content to a hook.io instance.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Reference:
 - https://developers.line.biz/en/docs/messaging-api/building-sample-bot-with-heroku/
   - https://github.com/line/line-bot-sdk-php/tree/master/line-bot-sdk-tiny -> the original tiny line sdk
