@@ -1,0 +1,11 @@
+{
+    "name": "azophy/new-tiny-line-sdk",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Azophy",
+            "email": "azophy@gmail.com"
+        }
+    ],
+    "require": {}
+}

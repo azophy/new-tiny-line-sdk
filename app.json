@@ -5,11 +5,11 @@
   "keywords": ["LINE mesanger", "PHP", "example"],
   "env": {
     "LINE_API_SECRET": {
-      "description": "LINE Messaging API secret",
+      "description": "LINE Messaging API secret mentioned on https://developers.line.biz/console/",
       "value": ""
     },
     "LINE_API_ACCESS_TOKEN": {
-      "description": "LINE Messaging API access token",
+      "description": "LINE Messaging API access token mentioned on https://developers.line.biz/console/",
       "value": ""
     }
   }
