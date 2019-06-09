@@ -7,7 +7,8 @@ from code in https://github.com/HalimZamal/LineBotExample
 Try it on heroku using deploy button or copy content to a hook.io instance.
 
 Reference:
-- https://github.com/line/line-bot-sdk-php/tree/master/line-bot-sdk-tiny
+- https://developers.line.biz/en/docs/messaging-api/building-sample-bot-with-heroku/
+  - https://github.com/line/line-bot-sdk-php/tree/master/line-bot-sdk-tiny -> the original tiny line sdk
 - http://gueprogramer.com/coding/create-line-chat-bot-and-messaging-api-use-php-simple-example/
 - https://medantechno.com/read/news/33/tutorial-membuat-bot-messaging-api-line-dengan-php-bagian-2
 - https://medantechno.com/read/news/23/tutorial-membuat-bot-messaging-api-line -> paling tua, kayaknya yang original
