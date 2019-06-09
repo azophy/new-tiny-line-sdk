@@ -8,7 +8,7 @@ class LINEBotTiny
         $this->channelSecret = $channelSecret;
 
         if (function_exists('hash_equals'))  {
-            $this->hash_equals = hash_equals ;
+            $this->hash_equals = 'hash_equals' ;
         } else {
             $this->hash_equals = function($knownString, $userString) {
                 $strlen = function ($string) {
@@ -28,7 +28,7 @@ class LINEBotTiny
                     $diff |= ord($knownString[$i]) ^ ord($userString[$i]);
                 }
                 return $diff === 0;
-            }
+            };
         }
     }
 
